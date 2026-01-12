@@ -129,7 +129,7 @@ public class Solver {
         for (String line : combinedStr.split("\n")) System.out.println("    " + line);
         System.out.println();
 
-        System.out.println("And I'd say the missing parts characters can be easily filled in.");
+        System.out.println("And I'd say the missing characters can be easily filled in.");
         System.out.println(" -> And that's it! May the celebration start.\n");
 
         System.out.println("PRAISE THE CODE");
